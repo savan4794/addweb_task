@@ -17,8 +17,7 @@ Ensure that you have the following installed on your machine:
 1. **Clone the repository**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/savan4794/addweb_task.git
     ```
 
 2. **Install PHP dependencies**
